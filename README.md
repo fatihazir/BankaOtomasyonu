@@ -1,4 +1,4 @@
 # BankaOtomasyonu
 
-Fatih Hazır
-Ömer Harun Çetin
+#Fatih Hazır
+#Ömer Harun Çetin
